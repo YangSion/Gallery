@@ -2,7 +2,7 @@
 使用 AndroidX 中的 ViewPager2 与 Compose 中的 Horizo​​ntalPager 实现的画廊效果比较。
 [English guide](https://github.com/YangSion/Gallery/blob/master/README.md)
 
-## HorizontalPager 实现效果
+## HorizontalPager 实现效果（Compose项目推荐，代码量极少）
 |gif          |截图       |带透明度效果截图        |
 | ----------- | ----------- | ----------- |
 | ![动态效果](compose/HorizontalPager.gif) | ![效果图](compose/HorizontalPager_1.png) | ![带透明度效果图](compose/HorizontalPager_2.png) |
